@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshit1435
 - 👀 I’m interested in development 
-- 🌱 I’m currently learning react js
+- 🌱 I’m Frontend developer
 - 💞️ I’m looking to collaborate on developer
 
 
